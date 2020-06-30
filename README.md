@@ -14,28 +14,16 @@ https://howtodoinjava.com/spring-boot/spring-soap-client-webservicetemplate/
 HTTP Status codes:
 
 200 -> OK
-
 201 - created
-
 204 -> No content
-
 207 -> Multi status
-
 400 -> Bad Request
-
 404 -> Not Found
-
 401 -> Unauthorized
-
 403 -> Forbidden
-
 405 -> Method Not Allowed
-
 415 -> Unsupported Media Type
-
 422 -> Unprocessible Entity
-
 500 -> Internal Server Error
-
 503 -> Service Unavialable
 
